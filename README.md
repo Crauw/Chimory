@@ -7,6 +7,10 @@ Ce jeu est proposé aux étudiants Génie Biologique souhaitant réviser la chim
 Nombre de joueurs : 1 à 4 (possibilité de faire 2 vs 2)
 Durée : 30-45 minutes
 
+## Statut
+
+Cahier des charges en cours de rédaction.
+
 ## ChangeLog
 
-- Aucune version disponible pour le moment
+- Aucune version disponible pour le moment 
